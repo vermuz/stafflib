@@ -1,0 +1,96 @@
+.ui-accordion{
+	
+}
+
+input, textarea{
+	
+}
+
+#edit-field-start-date, 
+#edit-field-end-date{
+	/*
+	width: 50%;
+	float:left;
+	*/
+}
+
+.multiple-field-start-date,
+.multiple-field-end-date
+{
+	/*
+	width:40%;
+	float:left;
+	*/
+}
+
+#fgm_node_library_hours_form_group_time-add-more-wrapper {
+	/*
+	clear:left;
+	*/
+}
+
+
+.multiple-field-open-time,
+.multiple-field-close-time
+{
+	/*
+	width:40%;
+	*/
+}
+
+/*
+.form-item-fgm-node-library-hours-form-group-time-fields-items-0-field-open-time-und-value
+{
+	padding-left: 0.1cm;
+	padding-right: 1.4cm;
+}
+*/
+
+#edit-field-type
+{
+	/*
+	top: -60px;
+	padding-left: 400px;
+	padding-bottom: 0cm;
+	position: relative;
+	*/
+
+	/*float:right;*/
+}
+
+.form-item-title{
+	/*
+	width:60%;
+	clear:left;
+	float:left;
+	*/
+}
+
+.tabledrag-toggle-weight
+{
+	/*
+	visibility: hidden;
+	*/
+}
+
+.field-multiple-table {
+	/*
+	width:50%;
+	*/
+}
+
+.field-name-field-open-time
+{
+	/*
+	clear:left;
+	float:left;
+	width:50%;
+	*/
+}
+
+.field-name-field-close-time
+{
+	/*
+	width:50%;
+	*/
+}
